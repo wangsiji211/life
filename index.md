@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+王斯基
 
 You can use the [editor on GitHub](https://github.com/wangsiji211/life/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
